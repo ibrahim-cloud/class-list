@@ -1,0 +1,42 @@
+body{
+
+
+     background: linear-gradient(to left, #ff66ff 4%, #66ccff 101%);
+     background-repeat: no-repeat;
+     HEIGHT: 1477PX;
+     
+
+}
+input{
+    width: 33%;
+    HEIGHT: 47PX;
+    MARGIN-LEFT: 477PX;
+    BORDER-RADIUS: 16PX;
+    MARGIN-TOP: 40PX;
+}
+form{
+
+    margin-top: 166PX;
+    margin-left: -25%
+}
+table{
+    margin-top: -29%;
+    MARGIN-LEFT: 64%;
+    border-collapse: collapse;
+   
+
+}
+
+  
+  table, th, td {
+    border: 1px solid black;
+    PADDING: 40PX;
+    MARGIN-LEFT: 53%;
+    FONT-SIZE: 26PX;
+    COLOR: aliceblue;
+    MARGIN-TOP: -33%;
+
+  }  
+label{
+    color: black;
+}
